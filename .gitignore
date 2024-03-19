@@ -1,0 +1,8 @@
+.env
+.env.*
+.DS_Store
+node_modules
+bin
+data
+skip_domains.js
+package-lock.json
